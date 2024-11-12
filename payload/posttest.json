@@ -1,0 +1,21 @@
+[
+
+    {
+        "question": "If 1 m<sup>3</sup> of water has 100kg, what will be its density?",
+        "qid": 1,
+        "option_a": "100 kg/m<sup>3</sup>",
+        "option_b": "10 kg/m<sup>3</sup>",
+        "option_c": "10000 kg/m<sup>3</sup>",
+        "option_d": "1000 kg/m<sup>3</sup>",
+        "correct_option": "d"
+    },
+    {
+        "question": "If 13600 kg/m<sup>3</sup> is density of liquid, what is its specific gravity?",
+        "qid": 2,
+        "option_a": "13.6",
+        "option_b": "13600",
+        "option_c": "136",
+        "option_d": "1.36",
+        "correct_option": "a"
+    }
+]
