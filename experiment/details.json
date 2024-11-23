@@ -1,0 +1,34 @@
+{
+
+    "details": [
+        {
+            "Experiment": "Density, Specific Gravity and Specific Weight",     
+            "Lab": "Fluid properties and Pressure and its measurement (Fluid Mechanics)",               
+            "Discipline": "Chemical Engineering",
+            "FOSS": "Yes",
+            "Technology": "HTML/CSS/Javascript",
+            "Type_of_content": "Simulation",
+            "Institute": "Indian Institute of Technology Bombay",
+            "InstituteAcronym": "IITB"
+        }
+    ],
+ 
+    "principalinvestigator": [
+        {       
+            "PrincipalInvestigator": "Prof. Santosh Noronha",         
+            "Institute": "Indian Institute of Technology Bombay",         
+            "InstituteAcronym": "IITB"
+        }
+    ],
+ 
+    "contributor": [
+        {       
+            "Contributor": "Contributor_name",              
+            "Institute": "Indian Institute of Technology Bombay",
+            "InstituteAcronym": "IITB"         
+        }
+    ]
+ 
+ }
+ 
+ 

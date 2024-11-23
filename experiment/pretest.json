@@ -1,39 +1,29 @@
-{
-  "version": 2.0,
-  "questions": [
+[
     {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+        "question": "Unit of density is",
+        "qid": 1,
+        "option_a": "kg/m<sup>3</sup>",
+        "option_b": "m<sup>3</sup>/kg",
+        "option_c": "N/kg",
+        "option_d": "kg/m<sup>4</sup>",
+        "correct_option": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+        "question": "Specific weight is the product of",
+        "qid": 2,
+        "option_a": "density and weight",
+        "option_b": "density and specific grsvity",
+        "option_c": "density and occurrence due to gravity",
+        "option_d": "density and volume",
+        "correct_option": "c"
+    },
+    {
+        "question": "Specific gravity of Mercury is",
+        "qid": 3,
+        "option_a": "12.6",
+        "option_b": "13.6",
+        "option_c": "10",
+        "option_d": "13600",
+        "correct_option": "b"
     }
-  ]
-}
+]
